@@ -13,13 +13,13 @@ Dudes on a Map is a TTRPG in the brainstorm phase that has the following goals:
   - **Counter**: You lose something or your opponent does a thing to you, which prevents you from doing the thing
 - 3 **status** toggles:
   - **Impact**: The amount you effect your target or challenge
-    - Can buff/debuff the target's **risk** through a **detail**
-    - Can buff/debuff the target's **impact** through a **detail**
-    - Can apply points toward defeating the target
+    - Buff/debuff the target's **risk** through a **detail**
+    - Buff/debuff the target's **impact** through a **detail**
+    - Or, apply **knocks** toward defeating the target or overcoming the challenge
   - **Risk**: The amount of **impact** your opponent deals you when they **match** or **counter** you
   - **Chance**: A change to your roll's likelihoods of getting each **result**
     - The amount of the change is written on your character sheet because many **dudes** have different roll mechanics
-  - A GM can always upgrade or downgrade the **impact** or **risk** based on whether they think the skill is *bogus* (spammed, a stretch, or less appropriate) or excellent (clever, cool, extra appropriate)
+  - A GM can always upgrade or downgrade the **impact** or **risk** based on whether they think the skill is *bogus* (spammed, a stretch, or less appropriate) or *excellent* (clever, cool, extra appropriate)
   - A player can always trade an **impact** for a **risk** on the action
     - They can be cautious, reducing their **impact** by 1 to decrease the **risk** by 1
     - They can be confident, increasing their **impact** by 1 to increase the **risk** by 1
