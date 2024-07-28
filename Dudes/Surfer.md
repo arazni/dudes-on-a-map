@@ -5,9 +5,12 @@ This dude loves life, babes, and dudes, but nothing more than the waves.
 ## Basics
 
 Risk: 2
+
 Impact: 2
+
 Move: 5
-Knocked Out: 0 / 6
+
+KO: 6
 
 - A surfer can always trade x **impact** to affect x more targets
 
@@ -38,21 +41,21 @@ Distribute one 2, two 1s, two 0s, and one -1 to your attributes.
 ## Suggested Fight Actions
 
 - Dude and/or Babe Magnet
-  - Create a *charmed by* **detail** on a target you chat up to reduce their **risk** to you
+  - Create a *charmed by you - surprised x* **detail** on a target you chat up to reduce their **risk** to you
 - Hang Loose
-  - Create a *chillax* **detail** on a target you try to calm down to reduce their **impact** on all violent actions
+  - Create a *chillax - bound x (violence)* **detail** on a target you try to calm down to reduce their **impact** on all violent actions
   - **Resist** against an opponent's action that effects your emotions
 - Hang Ten
   - Try to pull off an **action** someone did in the turn before you.
-    - If you **ace** it, you also gain a *feelin' studly* **detail** that boosts your **risk** by 1 until you're **countered**
-    - If you're **countered**, you also gain an *embarrassed* **detail** that reduces your **risk** by 1 until you **ace** something
+    - If you **ace** it, you also gain a *feelin' studly - prepared 1* **detail** that boosts your **risk** by 1 until you're **countered**
+    - If you're **countered**, you also gain an *embarrassed - surprised 1* **detail** that reduces your **risk** by 1 until you **ace** something
 - Wipeout
   - **Knock** someone in melee
   - **Bet** against an opponent in melee
 - Stoke
-  - Create a *stoked* **detail** on an ally to increase their **impact**
+  - Create a *stoked - amped x* **detail** on an ally to increase their **impact**
 - Day Job
-  - TODO
+  - Create a *dissociation* **detail** on yourself that lets you **ace** your next **resist** on any emotional actions. **Exhaust** this or take *distracted - exposed 1* if you don't **ace**.
 
 ## Quirks
 
@@ -61,5 +64,5 @@ Distribute one 2, two 1s, two 0s, and one -1 to your attributes.
 
 ## Gear
 
-Surfboard: +2 Move in the ocean, +4 toward the shore
-SPF 100: -1 Risk from heat and fire when applied until you're **aced** by an action involving heat or fire or **countered** by heat or fire
+- Surfboard: +2 Move in the water, +4 toward the shore
+- SPF 100: -1 Risk from heat and fire when applied until you're **aced** by an action involving heat or fire or **countered** by heat or fire

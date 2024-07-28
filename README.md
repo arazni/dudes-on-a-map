@@ -1,6 +1,6 @@
 # Dudes on a Map
 
-We firmly believe anyone of any gender can opt to be a **dude**, but if you prefer, you can be a **dudette**, **duder**, **babe**, **boi**, **folk**, or other slang noun that fits with your group. Anyone who gives you a tough time about gender or dude-ocity can't play.
+We firmly believe anyone of any gender can opt to be a **dude**, but if you prefer, you can be a **dudette**, **duder**, **babe**, **boi**, **folk**, or other slang noun that fits with your group. Anyone who gives you a tough time about gender or dude-ocity can't play. [revision note: not meant to imply that resisting being labeled a "dude" specifically is a problem]
 
 Dudes on a Map is a TTRPG in the brainstorm phase that has the following goals:
 

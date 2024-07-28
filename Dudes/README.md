@@ -1,8 +1,10 @@
 # Things All Dudes and GMs Should Know
 
-Abilities, skills, actions, etc. must make narrative sense. It doesn't have to be an ironclad justification, but if it doesn't make sense, then the **detail** goes away or the **action** can't be done.
+Abilities, skills, actions, etc. must make some narrative sense. It doesn't have to be an ironclad justification, but if it doesn't make sense, then the **detail** goes away or the **action** can't be done.
 
-Treat every rule and ability as if it has the clause *provided it makes sense in the narrative* attached to it.
+Treat every rule and ability as if it has the clause *provided it makes sense to the story* attached to it.
+
+This is modified, of course, by the tone of the game you want to run. If you want a pencil to be as deadly as a machete in a fight for a specific pencil-master dude or all average dudes, go for it! Just agree on that as a table early on.
 
 Examples:
 
@@ -16,12 +18,6 @@ Examples:
 Outside of a **fight**, something you roll for.
 
 During a **fight**, usually something you roll for, but also some things that take a bit of time or effort like moving or interacting with something.
-
-## Chance x
-
-A status toggle that increases or decreases your likelihood of getting good **results** on rolls. Each roll mechanic will explain how positive **chance** benefits them and **negative** chance harms them.
-
-This should be relatively rare.
 
 ## Fight
 
@@ -104,3 +100,59 @@ You make a roll with the following results:
 - **Ace**: Reduce the opponent's **impact** by your **risk**
 - **Matched**: Reduce the opponent's **impact** by 1
 - **Countered**: Increase the opponent's **impact** by 1
+
+## Spending Impact and Risk on Buffs, Debuffs, and Knocks
+
+Conditions are most often buffs or debuffs, which are followed by a number. You spend **impact** on them, typically 1 to 1, unless they've already got that condition.
+
+For example, if I have **impact 2** to trip someone, I give them the *tripped* **detail**, which I can choose to represent through debuffs. I can choose to make them **exposed 2** to make them more vulnerable, make them **bound 2** to reduce their **impact** by 2, or split it to make them **exposed 1** and **bound 1** at the same time.
+
+Usually this would be written as a note on a tracker like "tripped - exposed 2".
+
+### Buffs
+
+**Shield**: Reduce incoming impact and risk
+**Amp**: Boost outgoing impact
+**Prepare**: Boost risk
+**Heal**: Points away from KO
+
+### Debuffs
+
+**Expose**: Increase incoming impact and risk
+**Bind**: Reduce outgoing impact
+**Surprise**: Reduce risk
+**Knock**: Points toward KO
+
+If someone is already debuffed or buffed by a *detail*, and you also want to apply that same buff or debuff, you have two major options:
+
+1. Double down on the existing **detail**, increasing the buff or debuff by 1 for each 2 **impact** spent. This includes Knocks!
+2. Create a different **detail**. The target deals with only the highest buff or debuff that applies to their actions, but they have to be cleared separately.
+
+Or, you could do both if you have enough **impact** to spend.
+
+#### Example
+
+If you go to stomp on an enemy with *tripped - exposed 2* and you have 4 **impact** to spend (2 from your base **impact**, 2 from **exposed 2**), you can choose several things.
+
+1. You could describe your stomp as bringing your opponent toward a KO and apply 4 Knocks with your stomp.
+2. You could describe your stomp as stunning your opponent and make the **detail** *stomped - surprised 4*, or split among other debuffs as usual.
+3. You could describe your stomp as making it even harder for your opponent to get up, doubling down on the *tripped* **detail** to make it *tripped - exposed 4*.
+4. You could do a combination of each of those, making the opponent *tripped - exposed 3* and *stomped - surprised 2*. Even *tripped - exposed 3*, *stomped - surprised 1*, and 1 Knock works!
+
+## Other Conditions
+
+## Chance x
+
+A status toggle that increases or decreases your likelihood of getting good **results** on rolls. Each roll mechanic will explain how positive **chance** benefits them and **negative** chance harms them.
+
+This should be relatively rare.
+
+### Exhaust
+
+An **exhausted** action can't be repeated until the **fight** is over.
+
+If you gained an effect from a **detail**, you can't create similar **details** to get similar effects. For example, if you **exhaust** shielding yourself from incoming emotional **impact** with *dissociation*, you can't use a similar **detail** like *daydreaming* to shield yourself again during that **fight**.
+
+### KO'd
+
+You're out of this **fight**. Better luck in the next one!
